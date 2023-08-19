@@ -35,6 +35,6 @@ Este projeto é uma produção feita no 1° semestre dos autores para entidade d
 
 ## Imagens/screenshot
 
-![Imagem](screenshot/imagem1.png)
+![Imagem](screenshots/imagem1.png)
 
 
