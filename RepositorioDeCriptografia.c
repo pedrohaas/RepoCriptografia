@@ -58,7 +58,7 @@ void CifraDeCesar() {
     desl %= 26;
   }
 
-  printf("Digite a mensagem que você deseja criptografar, terminada por enter:\n");
+  printf("Digite a mensagem que voce deseja criptografar, terminada por enter:\n");
   
   getchar();
 
@@ -144,7 +144,7 @@ void CifraDeSubstituicao(){
 
   char caractere;
   
-  printf("Digite a mensagem que você deseja criptografar, terminada por enter:\n");
+  printf("Digite a mensagem que voce deseja criptografar, terminada por enter:\n");
 
   while(1){
 
@@ -459,7 +459,7 @@ void CifraYP() {
     desl %= 26;
   }
 
-  printf("Digite a mensagem que você deseja criptografar, terminada por enter:\n");
+  printf("Digite a mensagem que voce deseja criptografar, terminada por enter:\n");
   
   getchar();
 

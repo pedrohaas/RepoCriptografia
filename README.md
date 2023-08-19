@@ -32,3 +32,9 @@ gcc main.c -o main
 * Pedro Henrique Alves de Araujo Silva
 
 Este projeto é uma produção feita no 1° semestre dos autores para entidade de cultura Hacker HackoonSpace, da Universidade Federal de São Carlos, campus Sorocaba.
+
+## Imagens/screenshot
+
+![Imagem](screenshot/imagem1.png)
+
+
